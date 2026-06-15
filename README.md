@@ -1,11 +1,7 @@
 # 🌡️ ThermaVision AI
-### Infrared Image Enhancement & Colorization for Improved Object Interpretation
 
-> **ISRO Hackathon Prototype** — A computer vision pipeline that transforms raw thermal/infrared imagery into visually interpretable outputs using classical image processing and false-color mapping.
-
----
-
-## Overview
+## 🌐 Live Demo
+https://thermavisionai-msjqestynu7tpc3qzy3nut.streamlit.app/
 
 ThermaVision AI is a Streamlit web application that processes thermal and infrared images through a five-stage pipeline:
 
@@ -115,5 +111,3 @@ The app will open at `http://localhost:8501` in your browser.
 - Forest fire / hotspot detection
 
 ---
-
-*ThermaVision AI — ISRO Hackathon 2024/25 · Built with OpenCV & Streamlit*
