@@ -1,0 +1,7 @@
+venv/
+venvcd/
+__pycache__/
+*.pyc
+Include/
+Lib/
+Scripts/
